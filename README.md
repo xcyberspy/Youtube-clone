@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<p align="center" href="https://ibb.co/74m8dbk"><img src="https://i.ibb.co/fvwBzQD/cloneyoutube.png" alt="cloneyoutube" border="0"</p>
+<p align="center" href="https://ibb.co/74m8dbk"><img src="https://i.ibb.co/rsrTRvd/cloneyoutube.png" alt="cloneyoutube" border="0"</p>
 
   
   
