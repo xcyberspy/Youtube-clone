@@ -24,16 +24,22 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. import library icons & fonts</p>
+<p>1. Download the repository</p>
 
 ```
-  https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp
+git clone https://github.com/xcyberspy/Youtube-clone.git
 ```
-
-<p>2. download the repository</p>
+<p>2. Navigate to the project directory</p>
 
 ```
-https://github.com/xcyberspy/Youtube-clone.git
+cd Youtube-clone
+cd Youtube-clone-ByXspy
+
+```
+<p>3. Open Html File in any Browser</p>
+
+```
+index.html
 ```
 
   
